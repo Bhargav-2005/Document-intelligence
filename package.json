@@ -1,0 +1,36 @@
+{
+    "name": "challenge-1b-persona-driven-analysis",
+    "version": "1.0.0",
+    "description": "Persona-Driven Document Intelligence for Adobe Hackathon Challenge 1B",
+    "main": "process1b.js",
+    "scripts": {
+        "start": "node process1b.js",
+        "test": "node process1b.js",
+        "build": "echo 'No build step required'",
+        "dev": "node process1b.js"
+    },
+    "keywords": [
+        "pdf",
+        "document-analysis",
+        "persona-driven",
+        "adobe",
+        "hackathon",
+        "challenge-1b"
+    ],
+    "author": "Team Hackathon",
+    "license": "MIT",
+    "dependencies": {
+        "pdfjs-dist": "^3.11.174"
+    },
+    "engines": {
+        "node": ">=16.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/your-team/challenge-1b.git"
+    },
+    "bugs": {
+        "url": "https://github.com/your-team/challenge-1b/issues"
+    },
+    "homepage": "https://github.com/your-team/challenge-1b#readme"
+}

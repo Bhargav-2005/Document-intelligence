@@ -1,0 +1,20 @@
+{
+    "challenge_info": {
+        "challenge_id": "input_006",
+        "test_case_name": "nature_exploration",
+        "description": "Nature and environment"
+    },
+    "documents": [
+        { "filename": "Wildlife of the World.pdf", "title": "Wildlife of the World" },
+        { "filename": "National Parks Guide.pdf", "title": "National Parks Guide" },
+        { "filename": "Rainforests and Ecosystems.pdf", "title": "Rainforests and Ecosystems" },
+        { "filename": "Endangered Species.pdf", "title": "Endangered Species" },
+        { "filename": "Climate and Weather Patterns.pdf", "title": "Climate and Weather Patterns" }
+    ],
+    "persona": {
+        "role": "Nature Explorer"
+    },
+    "job_to_be_done": {
+        "task": "Plan a week-long educational nature camp for high school students."
+    }
+}

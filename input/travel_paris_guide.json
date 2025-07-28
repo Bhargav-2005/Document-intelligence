@@ -1,0 +1,26 @@
+{
+    "challenge_info": {
+      "challenge_id": "input_0010"
+    },
+    "documents": [
+      {
+        "filename": "paris_travel_guide_part1.pdf",
+        "title": "Paris Travel Guide - History and Landmarks"
+      },
+      {
+        "filename": "paris_travel_guide_part2.pdf",
+        "title": "Paris Travel Guide - Cuisine and Restaurants"
+      },
+      {
+        "filename": "paris_museums.pdf",
+        "title": "Guide to Museums in Paris"
+      }
+    ],
+    "persona": {
+      "role": "Travel Planner"
+    },
+    "job_to_be_done": {
+      "task": "Plan a trip to Paris, focusing on historical sites and local cuisine."
+    }
+  }
+  

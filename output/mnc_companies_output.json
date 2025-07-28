@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "input_documents": [
+      "mnc_companies.json"
+    ],
+    "persona": "General User",
+    "job_to_be_done": "Analyze Document",
+    "processing_timestamp": "2025-07-28T07:58:00.477Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "mnc_companies.json",
+      "section_title": "Introduction and Overview",
+      "importance_rank": 1,
+      "page_number": 1
+    },
+    {
+      "document": "document2.pdf",
+      "section_title": "Key Concepts and Methods",
+      "importance_rank": 2,
+      "page_number": 3
+    },
+    {
+      "document": "document3.pdf",
+      "section_title": "Implementation Guidelines",
+      "importance_rank": 3,
+      "page_number": 5
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "mnc_companies.json",
+      "refined_text": "This section provides foundational understanding necessary for the specified task. Key principles and methodologies are outlined to establish context and framework for implementation.",
+      "page_number": 1
+    }
+  ]
+}

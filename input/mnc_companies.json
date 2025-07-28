@@ -1,0 +1,20 @@
+{
+    "challenge_info": {
+        "challenge_id": "input_005",
+        "test_case_name": "mnc_profile_report",
+        "description": "Profile of MNC companies"
+    },
+    "documents": [
+        { "filename": "Global MNC List.pdf", "title": "Global MNC List" },
+        { "filename": "Top Fortune 500 Companies.pdf", "title": "Top Fortune 500 Companies" },
+        { "filename": "MNC Business Strategies.pdf", "title": "MNC Business Strategies" },
+        { "filename": "International Presence of MNCs.pdf", "title": "International Presence of MNCs" },
+        { "filename": "Case Study - Apple.pdf", "title": "Case Study - Apple" }
+    ],
+    "persona": {
+        "role": "Corporate Researcher"
+    },
+    "job_to_be_done": {
+        "task": "Prepare a report comparing MNCs across industries for a consulting client."
+    }
+}

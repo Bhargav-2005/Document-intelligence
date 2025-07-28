@@ -1,0 +1,20 @@
+{
+    "challenge_info": {
+        "challenge_id": "input_004",
+        "test_case_name": "tech_industry_report",
+        "description": "IT companies overview"
+    },
+    "documents": [
+        { "filename": "Top IT Companies 2025.pdf", "title": "Top IT Companies 2025" },
+        { "filename": "Emerging Tech Startups.pdf", "title": "Emerging Tech Startups" },
+        { "filename": "Software Giants.pdf", "title": "Software Giants" },
+        { "filename": "IT Sector Trends.pdf", "title": "IT Sector Trends" },
+        { "filename": "Tech Company Case Studies.pdf", "title": "Tech Company Case Studies" }
+    ],
+    "persona": {
+        "role": "Technology Analyst"
+    },
+    "job_to_be_done": {
+        "task": "Prepare a comparative analysis of leading IT companies for a quarterly business report."
+    }
+}

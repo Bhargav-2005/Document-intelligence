@@ -1,0 +1,20 @@
+{
+    "challenge_info": {
+        "challenge_id": "input_007",
+        "test_case_name": "game_suggestions",
+        "description": "Video game selection and review"
+    },
+    "documents": [
+        { "filename": "Top Multiplayer Games.pdf", "title": "Top Multiplayer Games" },
+        { "filename": "Game Genres Explained.pdf", "title": "Game Genres Explained" },
+        { "filename": "2025 Best Games.pdf", "title": "2025 Best Games" },
+        { "filename": "Game Reviews and Ratings.pdf", "title": "Game Reviews and Ratings" },
+        { "filename": "Mobile vs Console Gaming.pdf", "title": "Mobile vs Console Gaming" }
+    ],
+    "persona": {
+        "role": "Game Reviewer"
+    },
+    "job_to_be_done": {
+        "task": "Create a recommendation list for a gaming blog focused on trending titles."
+    }
+}

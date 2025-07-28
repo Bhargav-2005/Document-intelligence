@@ -1,0 +1,21 @@
+
+{
+    "challenge_info": {
+        "challenge_id": "input_003",
+        "test_case_name": "movie_recommendation",
+        "description": "Recommend top-rated movies"
+    },
+    "documents": [
+        { "filename": "Top Action Movies.pdf", "title": "Top Action Movies" },
+        { "filename": "Oscar Winners List.pdf", "title": "Oscar Winners List" },
+        { "filename": "Top 100 IMDB Movies.pdf", "title": "Top 100 IMDB Movies" },
+        { "filename": "Family Friendly Films.pdf", "title": "Family Friendly Films" },
+        { "filename": "Movies by Genre.pdf", "title": "Movies by Genre" }
+    ],
+    "persona": {
+        "role": "Movie Critic"
+    },
+    "job_to_be_done": {
+        "task": "Curate a list of 10 must-watch movies for a film club event."
+    }
+}

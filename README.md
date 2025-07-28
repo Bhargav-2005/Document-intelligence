@@ -88,7 +88,7 @@ The system generates a `challenge1b_output.json` file:
 
 ### Docker Build
 ```bash
-docker build --platform linux/amd64 -t challenge1b:latest .
+docker build --platform linux/amd64 -t document-intelligence:latest .
 ```
 
 ### Docker Run
@@ -97,13 +97,13 @@ docker run --rm \
   -v $(pwd)/input:/app/input \
   -v $(pwd)/output:/app/output \
   --network none \
-  challenge1b:latest
+  document-intelligence:latest
 ```
 
 ### Local Development
 ```bash
 npm install
-node process1b.js
+node main.js
 ```
 
 ## Dependencies
